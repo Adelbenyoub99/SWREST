@@ -1,0 +1,24 @@
+[
+    {
+      "nom": "Doe",
+      "prenom": "John",
+      "age": 25,
+      "niveauEtude": "Master",
+      "anneeScolaire": "2023-2024"
+    },
+    {
+      "nom": "Smith",
+      "prenom": "Emma",
+      "age": 22,
+      "niveauEtude": "Licence",
+      "anneeScolaire": "2022-2023"
+    },
+    {
+      "nom": "Garcia",
+      "prenom": "Luis",
+      "age": 20,
+      "niveauEtude": "Baccalauréat",
+      "anneeScolaire": "2021-2022"
+    }
+  ]
+  
